@@ -10,6 +10,7 @@ namespace to_play
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Added this line to change a thing");
             /* 
              * Todo interaction: choise between parts.
              * Todo move tests to a seperate class!
