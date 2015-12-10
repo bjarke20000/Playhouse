@@ -4,3 +4,6 @@ C:\Users\Bruger\Documents\Visual Studio 2012\Projects\to play\to play\bin\Debug\
 C:\Users\Bruger\Documents\Visual Studio 2012\Projects\to play\to play\bin\Debug\to play.pdb
 C:\Users\Bruger\Documents\Visual Studio 2012\Projects\to play\to play\obj\Debug\to play.exe
 C:\Users\Bruger\Documents\Visual Studio 2012\Projects\to play\to play\obj\Debug\to play.pdb
+C:\Users\Bruger\Documents\GitHub\Playhouse\to play\to play\bin\Debug\to play.exe.config
+C:\Users\Bruger\Documents\GitHub\Playhouse\to play\to play\obj\Debug\to play.exe
+C:\Users\Bruger\Documents\GitHub\Playhouse\to play\to play\obj\Debug\to play.pdb
